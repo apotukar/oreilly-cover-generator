@@ -120,3 +120,8 @@ The author would like to thank [JetBrains](https://www.jetbrains.com/?from=ORLY-
 Use of this work is governed by the MIT License.
 
 You may find a license copy in project root.
+
+# TODOs
+- Change font
+- Get images from https://dev.to/rly
+
